@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm Angela, a data enthusiast located in Toronto, Ontario 🇨🇦.
 
 A little bit about me:
-👩🏻‍💻💊 MSc in informatics/computational biology (Pharmacology & Toxicology Department, University of Toronto)
-📊 3+ years of data integration, curation, analysis, and visualization experience, particularly in Python
-✏️ Learning: SQL, Tableau
+- 👩🏻‍💻💊 MSc in informatics/computational biology (Pharmacology & Toxicology Department, University of Toronto)
+- 📊 3+ years of data integration, curation, analysis, and visualization experience, particularly in Python
+- ✏️ Learning: SQL, Tableau
 
 
