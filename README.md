@@ -18,6 +18,6 @@ I'm Angela:
 
 - 👩🏻‍💻💊 MSc in informatics/computational biology (Pharmacology & Toxicology Department, University of Toronto)
 - 📊 3+ years of data integration, curation, analysis, and visualization experience, particularly in Python
-- ✏️ Learning: SQL
+- ✏️ Learning: SQL ([link to project](https://github.com/angelahjkwak/Probe-my-Pathway)   
 
 
