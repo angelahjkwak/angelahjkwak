@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Angela:
+I'm Angela!:
 
-- 👩🏻‍💻💊 MSc in informatics/computational biology (Pharmacology & Toxicology Department, University of Toronto)
-- 📊 3+ years of data integration, curation, analysis, and visualization experience, particularly in Python
+- 👩🏻‍💻💊 MSc in computational biology/informatics (Pharmacology & Toxicology Department, University of Toronto)
+- 💻 3+ years of combined experience in Python, and bash scripting (Linux, HPC clusters)
 - ✏️ Learning: SQL ([link to project](https://github.com/angelahjkwak/Probe-my-Pathway))   
 
 
